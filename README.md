@@ -21,7 +21,7 @@ Arshanjoon
 yeah go check out /helloworld and contribute
 why? because i'm planning to collect ***E V E R Y  S I N G L E  H E L L O  W O R L D*** on every platform
 we're already good and we got probably 13 platforms already
-if you want to donate, don't
+if you want to donate, don't (There's no need to check anymore, as of December 27, nearly every language is pre-released)
 
 <!---
 ArezalGame89/ArezalGame89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
