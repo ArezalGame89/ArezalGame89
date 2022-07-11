@@ -1,10 +1,29 @@
 # The main deed
-Ok hello my full name is Arezal R. Geruan (Alt. Arad Zinalpoor),
+Back at the end developer and poggy gamer
 
-i live in middle east where this thing called youtube and facebook is banned but i still can access it lmfaoaoao
 
-consider me a back-end developer who's always on the line and ready to help ppl who deserve it.
+[Insert Twitter stuff here]
 
-talk to me and maybe not get ghosted on discord at **arezalgamer89#0774**
 
-but i'm usually a poggr gamer and i draw ***ugly*** stuff
+
+loves debian GNU/linux, unfortunately runs windows 10 the bloat god
+
+Here's my discord: `arezalgamer89#0774`
+
+# The Kitsune
+
+I'm currently working to get a Server and get it up and running, I want to call it The "Kitsune". Here's the plan:
+
+
+
+```
+Usefulness: Emergency Media or File streaming, HTTPS Website
+
+Operating System: Windows Server (for Plex) or Ubuntu Server LTS (with Nginx/Apache)
+
+CPU: Intel i3 or i5
+
+Storage: 500GiB
+
+
+```
