@@ -6,7 +6,7 @@ Back at the end developer and poggy gamer
 
 
 
-loves debian GNU/linux, unfortunately runs windows 10 the bloat god
+windows is <3
 
 Here's my discord: `arezalgamer89#0774`
 
