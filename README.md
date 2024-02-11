@@ -1,29 +1,18 @@
 # The main deed
-Back at the end developer and poggy gamer
+Name's Arezalgamer89, but I go with too many nicknames.
 
+My hobbies and favorites change over time and programming with github is one of them.
 
-[Insert Twitter stuff here]
+Some hobbies include:
+- gaming
+- programming
+- computer IT
+- linux hardcore
+- animationing
+- developing games
+- writing SRA documents
+- procrastinating
 
+Most of the things you see here is written in Python and usually uploaded to @Special-Rocket-Agents [\(SRA)](https://github.com/Special-Rocket-Agents) so I can test out Organizations.
 
-
-windows is <3
-
-Here's my discord: `arezalgamer89#0774`
-
-# The Kitsune
-
-I'm currently working to get a Server and get it up and running, I want to call it The "Kitsune". Here's the plan:
-
-
-
-```
-Usefulness: Emergency Media or File streaming, HTTPS Website
-
-Operating System: Windows Server (for Plex) or Ubuntu Server LTS (with Nginx/Apache)
-
-CPU: Intel i3 or i5
-
-Storage: 500GiB
-
-
-```
+[I also hold out a site which I write my incoherent thoughts in there](https://arezg.neocities.org)
