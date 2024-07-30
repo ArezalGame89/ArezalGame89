@@ -25,4 +25,6 @@ Some hobbies include:
 
 Most of the things you see here is usually uploaded to @Special-Rocket-Agents [\(SRA)](https://github.com/Special-Rocket-Agents) so I can test out Organizations.
 
-[I also hold out a site which I write my incoherent thoughts in there](https://arezg.neocities.org)
+[I have a neocities site, too!](https://arezg.neocities.org), which you can also use to find means of contacting me! (PGP too)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArezalGame89)](https://github.com/ryo-ma/github-profile-trophy)
