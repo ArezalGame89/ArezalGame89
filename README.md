@@ -2,6 +2,8 @@
 
 In the digital realm, they call me Arezal Atrazel, arezg, Arezalgamer89 or Dick Hammerbush.
 
+As of 14/06/2025, I have taken an oath to be more active and hoarding on GitHub. Cheers to that.
+
 I mostly write Python programs that have absolutely no use in the real world but I use it as an excuse because **I fucking love GitHub**
 
 I constantly switch hobbies often, here's some of them:
