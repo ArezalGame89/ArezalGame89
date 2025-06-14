@@ -1,12 +1,10 @@
 **PLEASE VISIT SRA'S REPOSITORY FOR MY ACTUAL WORKS, NOT MY PERSONAL REPOSITORY**
 
-Name's Arezalgamer89, but I go with too many nicknames.
-
-My hobbies and favorites change over time and programming with GitHub is one of them.
+In the digital realm, they call me Arezal Atrazel, arezg, Arezalgamer89 or Dick Hammerbush.
 
 I mostly write Python programs that have absolutely no use in the real world but I use it as an excuse because **I fucking love GitHub**
 
-Some hobbies include:
+I constantly switch hobbies often, here's some of them:
 
 🎮 pro-gaming
 
