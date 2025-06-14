@@ -29,4 +29,4 @@ Most of the things you see here is usually uploaded to @Special-Rocket-Agents [\
 
 [I have a neocities site, too!](https://arezg.neocities.org), which you can also use to find means of contacting me! (PGP too)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArezalGame89)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arezzg)](https://github.com/ryo-ma/github-profile-trophy)
